@@ -1,0 +1,40 @@
+body {
+    background: #f1f1f1;
+  }
+  
+  h1 {
+    font-size: 80px;
+  }
+  h2 {
+      font-size: 36pt;
+      color: teal;
+      font-family: serif;
+      font-weight: bold 
+
+  }
+
+  p {
+      color: blue;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Giving our navbar some padding and a background color */
+  .navbar {
+    padding: 10px;
+    background: #51fd5a;
+    margin-right: ;
+
+    .navbar li {
+        display: inline-block;
+        padding: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+        cursor: pointer;
+        background: #fff;
+        border-radius: 3px;
+      }
+
+  }
