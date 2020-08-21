@@ -1,0 +1,57 @@
+body {
+    background: #f1f1f1;
+  }
+ 
+  /* Giving our navbar some padding and a background color */
+.navbar {
+    padding: 10px;
+    background: teal;
+    color: black;
+  }
+
+.navbar-header {
+    font-weight: bold;
+    font: black;
+    font-size: 24pt;
+  }
+    
+.navbar-ul {
+  list-style-type: none;
+  font: black;
+}
+.navbar-li {
+        float: right;
+        /* display: inline;
+        padding: 20px;
+        font: black;
+        margin-right: 10px;
+        margin-left: 10px;
+        cursor: pointer;
+        border-radius: 3px; */
+        
+      }
+  
+
+  
+  h1 {
+    font-size: 80px;
+  }
+  h2 {
+      font-size: 36pt;
+      color: teal;
+      font-family: serif;
+      font-weight: bold 
+
+  }
+
+  p {
+      color: blue;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+
+  }
