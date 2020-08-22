@@ -6,13 +6,16 @@ body {
 .navbar {
     padding: 10px;
     background: teal;
-    color: black;
+    color:bisque;
   }
 
-.navbar-header {
+.navbar-brand {
     font-weight: bold;
-    font: black;
-    font-size: 24pt;
+    background-color: teal;
+    color: red;
+    font-size: 18pt;
+    font-family: serif;
+    padding: 10px;
   }
     
 .navbar-ul {
@@ -31,11 +34,19 @@ body {
         
       }
   
+a {
+  font-family: serif;
 
+}
   
-  h1 {
-    font-size: 80px;
+  h4 {
+    font-size: 36pt;
+    color: teal;
+    font-family: serif;
+    font-weight: bold 
+    
   }
+
   h2 {
       font-size: 36pt;
       color: teal;
