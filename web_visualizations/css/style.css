@@ -2,17 +2,17 @@ body {
     background: #f1f1f1;
   }
  
-  /* Giving our navbar some padding and a background color */
+
 .navbar {
     padding: 10px;
     background: teal;
     color:bisque;
   }
 
-.navbar-brand {
+.navbar .navbar-brand {
     font-weight: bold;
     background-color: teal;
-    color: red;
+    color: whitesmoke;
     font-size: 18pt;
     font-family: serif;
     padding: 10px;
@@ -24,13 +24,7 @@ body {
 }
 .navbar-li {
         float: right;
-        /* display: inline;
-        padding: 20px;
-        font: black;
-        margin-right: 10px;
-        margin-left: 10px;
-        cursor: pointer;
-        border-radius: 3px; */
+      
         
       }
   
@@ -43,6 +37,7 @@ a {
     font-size: 36pt;
     color: teal;
     font-family: serif;
+    padding: 5px;
     font-weight: bold 
     
   }
@@ -51,6 +46,7 @@ a {
       font-size: 36pt;
       color: teal;
       font-family: serif;
+      padding: 5px;
       font-weight: bold 
 
   }
