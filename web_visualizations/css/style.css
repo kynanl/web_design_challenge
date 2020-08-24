@@ -42,6 +42,27 @@ a {
     
   }
 
+  h1 {
+    font-size: 20pt;
+    color: teal;
+    font-family: serif;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center
+
+  }
+  h3 {
+    font-size: 20pt;
+    color: teal;
+    font-family: serif;
+    padding: 5px;
+    padding-top: 55px;
+    font-weight: bold;
+    text-align: center
+
+
+  }
+
   h2 {
       font-size: 36pt;
       color: teal;
@@ -49,6 +70,11 @@ a {
       padding: 5px;
       font-weight: bold 
 
+  }
+
+  div .col-sm-12 {
+
+    padding-bottom: 50px;
   }
 
   p {
